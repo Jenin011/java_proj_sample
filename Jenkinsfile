@@ -1,3 +1,4 @@
+ygi7tg7tig7tvg
 pipeline{
     agent {
         label "node1"
